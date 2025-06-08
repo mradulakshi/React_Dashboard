@@ -1,21 +1,17 @@
-# React Admin Dashboard
+React Admin Dashboard
 
 A modern and fully customizable React Admin Dashboard app featuring themes, tables, charts, calendar, and Kanban board — built for an interactive and seamless user experience.
 
----
+🚀 Features
 
-## 🚀 Features
+- Customizable Themes: Switch between light and dark modes or create your own theme.
+- Responsive Tables: Display and manage data with sorting, filtering, and pagination.
+- Interactive Charts: Visualize data using bar charts, pie charts, line charts, and more.
+- Calendar Integration: Manage events with a dynamic and interactive calendar view.
+- Kanban Board: Organize tasks efficiently with drag-and-drop Kanban boards.
+- Smooth User Experience: Fast, responsive UI with intuitive navigation and seamless interactions.
 
-- **Customizable Themes**: Switch between light and dark modes or create your own theme.
-- **Responsive Tables**: Display and manage data with sorting, filtering, and pagination.
-- **Interactive Charts**: Visualize data using bar charts, pie charts, line charts, and more.
-- **Calendar Integration**: Manage events with a dynamic and interactive calendar view.
-- **Kanban Board**: Organize tasks efficiently with drag-and-drop Kanban boards.
-- **Smooth User Experience**: Fast, responsive UI with intuitive navigation and seamless interactions.
-
----
-
-## 🛠 Technologies Used
+🛠 Technologies Used
 
 - React
 - React Router
@@ -24,10 +20,9 @@ A modern and fully customizable React Admin Dashboard app featuring themes, tabl
 - State management (React Context API or Redux)
 - Styling: CSS Modules / Styled Components / Tailwind CSS (choose as applicable)
 
----
-## 🔧 Installation & Setup
+🔧 Installation & Setup
 
-1. **Clone the repo:**
+1. Clone the repo:
    ```bash
    git clone https://github.com/yourusername/react-admin-dashboard.git
    cd react-admin-dashboard
